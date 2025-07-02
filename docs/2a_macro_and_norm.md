@@ -1,4 +1,4 @@
-## Use macros combine with :norm
+## Use macros combined with :norm
 
 Macros are quite a powerful concept in vim.
 You can basically save a sequence of commands and then play it again multiple times.
