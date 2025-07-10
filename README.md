@@ -3,7 +3,7 @@ a weekly vim (or else) motion, because every vim user knows that the addiction i
 
 ### General Ideas
 - Plugin that marks lines that solely contain #%% or # %% so that cells are clearly visible
-- Treesitter integration with iron.nvim, so that i.e. <Space>-sB runs cell and jumps to next
+- Treesitter integration with iron.nvim, so that i.e. \<Space\>-sB runs cell and jumps to next
 
 ## Week 1
 
